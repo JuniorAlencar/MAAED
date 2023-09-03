@@ -1,0 +1,262 @@
+node_id,idCom,author
+0,1,Y Kobayashi
+1,2,A Gabrielli
+2,4,A Babino
+3,1,FWS Lima
+4,1,RN Costa Filho
+5,4,Y Hu
+6,2,AS Lima Neto
+7,1,F Devreux
+8,1,MVS Santos
+9,1,KW Axhausen
+10,3,E Batista
+11,1,CC Donato
+12,2,D Torres
+13,1,HA Carmona
+14,3,P Bertsch
+15,1,Y Shibusa
+16,1,SV Buldyrev
+17,1,PA Morais
+18,1,F de Moura
+19,1,DJB Soares
+20,1,LR da SILVA
+21,2,EB Araújo
+22,1,BS Skagerstam
+23,1,D Stauffer
+24,2,D Diermeier
+25,1,JB Grotberg
+26,1,AP Vieira
+27,1,AF Morais
+28,1,CIN Sampaio Filho
+29,3,AS Lima
+30,3,L Böttcher
+31,1,B Van Schaeybroeck
+32,1,EK Lenzi
+33,1,HF Da Silva
+34,1,CM Vieira
+35,1,V Galvao
+36,2,C Igual
+37,5,TA Amor
+38,1,J Tolnai
+39,1,L Komendová
+40,1,F De Moura
+41,1,Z Hantos
+42,1,A Baldassarri
+43,1,T Shinohara
+44,4,L De Arcangelis
+45,2,E Pugliese
+46,1,EM Curado
+47,1,FD Nobre
+48,1,S Havlin
+49,1,AD Araujo
+50,1,RMS Ferreira
+51,3,M Floriancic
+52,1,P Barrozo
+53,1,SD da Cunha
+54,2,M Serafino
+55,1,MP Almeida
+56,1,TB dos Santos
+57,1,SSB Jácome
+58,1,Z Halász
+59,1,AL Ferreira
+60,2,HS Monteiro
+61,2,C Lenz Cesar
+62,1,AM Alencar
+63,3,VHP Louzada
+64,1,EL Albuquerque
+65,4,KR Lutchen
+66,1,EJR Parteli
+67,1,MC Gonzalez
+68,4,M Sigman
+69,5,R Bomfim
+70,1,TB Dos Santos
+71,1,LGA Alves
+72,1,C Tsallis
+73,1,HF Credidio
+74,2,I Leifer
+75,1,N Ito
+76,1,AA Moreira
+77,2,FQ Potiguar
+78,1,HF da Silva
+79,1,MC Romeu
+80,1,RS Mendes
+81,5,J Shaman
+82,1,GA Mendes
+83,1,HE Stanley
+84,3,KJ Schrenk
+85,1,IN De Oliveira
+86,1,MV Milošević
+87,1,M Batty
+88,1,DO Maionchi
+89,4,A Kaydul
+90,1,PR King
+91,1,V Schwämmle
+92,3,A Ofner
+93,1,J Mendes Filho
+94,3,T Pöschel
+95,1,J Cheraghalizadeh
+96,3,MAF Gomes
+97,3,J Imsirovic
+98,1,GA Farias
+99,1,FEA Leite
+100,2,C Ponte
+101,1,HD Rozenfeld
+102,1,T Verma
+103,3,PA Rühs
+104,2,FM Cardoso
+105,1,MC González
+106,1,AD Araújo
+107,1,JS Andrade Jr
+108,3,B Burger
+109,3,HJ Seybold
+110,1,A Lipowski
+111,1,FSA Cavalcante
+112,1,G Sauermann
+113,1,FGB Moreira
+114,1,A Hansen
+115,1,Z Ebadi
+116,1,K Shirane
+117,1,T Ning
+118,1,K Rajagopal
+119,1,B Mauroy
+120,1,SDS Reis
+121,1,B Suki
+122,1,GFT Da Silva
+123,1,RS Pires
+124,3,C Alves
+125,1,M Droz
+126,1,FD Nunes
+127,1,HF Hansen
+128,2,Jr
+129,1,GFT da Silva
+130,1,A Desolneux
+131,1,LAN Amaral
+132,1,EM Nascimento
+133,1,SB Santra
+134,1,F Peták
+135,1,DM Auto
+136,1,D Zhang
+137,1,HV Ribeiro
+138,1,J Nagler
+139,1,M Filoche
+140,1,JB Soares
+141,1,MH Costa
+142,1,RFS Andrade
+143,2,L Pietronero
+144,3,EN Teixeira
+145,1,NAM Araújo
+146,3,U Eberhard
+147,2,F Morone
+148,1,GF da Silva
+149,1,CLN Oliveira
+150,4,S Canals
+151,1,Y Arai
+152,1,D Chen
+153,1,AWT De Noronha
+154,1,ML Lyra
+155,3,C Anteneodo
+156,1,B Sapoval
+157,3,J Jiménez-Martínez
+158,1,I Nikolakopoulos
+159,1,DM Bezerra
+160,1,H Seybold
+161,1,QS Hanley
+162,1,TA Kesselring
+163,1,LE Araripe
+164,1,RM Ziff
+165,5,D Campos
+166,1,I Bena
+167,1,S Zapperi
+168,1,MS Araújo
+169,3,J Shao
+170,1,V Schatz
+171,1,H Hooyberghs
+172,1,IA Lima
+173,2,L Marenco
+174,1,AB Adib
+175,3,I Giordanelli
+176,1,D Kadau
+177,1,GL Vasconcelos
+178,1,M Costa
+179,1,JE Freitas
+180,1,M Baquil
+181,1,G Alencar
+182,5,S Pei
+183,1,RM Baram
+184,3,E Secchi
+185,1,CM Schneider
+186,1,EMF Curado
+187,1,JJ Kranz
+188,3,E Bartolák-Suki
+189,3,É Batista
+190,3,L Muchnik
+191,4,MK Sujeer
+192,4,JJ Collins
+193,1,I Wainer
+194,1,DS Borges
+195,1,JAC Gallas
+196,5,T Yamana
+197,3,M Ramos
+198,1,AV Guimarães
+199,5,X Espadaler
+200,2,FG Operti
+201,1,NV Dokholyan
+202,1,SM da Silva
+203,1,RS Oliveira
+204,2,A Franks
+205,1,J Ribeiro Filho
+206,5,V Méndez
+207,1,LS Lucena
+208,1,JO Indekeu
+209,1,FA Oliveira
+210,1,S Tizdast
+211,1,PG Lind
+212,2,V Furtado
+213,1,A Chaves
+214,1,JC Machado
+215,1,E Fehr
+216,1,LR Silva
+217,3,LC Parra
+218,3,JHT Bates
+219,1,AM Auto
+220,1,Y Lee
+221,1,A Diehl
+222,1,JGV Miranda
+223,2,LK Gallos
+224,1,EA Oliveira
+225,1,DA Street
+226,2,C Caminha
+227,2,S Luo
+228,2,HPM Melo
+229,1,D Rybski
+230,1,P Grassberger
+231,5,F Bartumeus
+232,1,G Li
+233,1,DS Grebenkov
+234,1,UMS Costa
+235,1,F Kun
+236,1,HJ Herrmann
+237,2,WR Sena
+238,3,JMA Sales
+239,2,THC Pequeno
+240,1,N Dokholyan
+241,1,T Asztalos
+242,1,FK Wittel
+243,4,M Mendoza
+244,3,Z Zheng
+245,1,LR Da Silva
+246,1,HA Makse
+247,1,WB Bastos
+248,1,C McGreavy
+249,1,TF Vasconcelos
+250,5,M Luković
+251,1,RLC Cisne Jr
+252,1,CA Andresen
+253,1,JE Moreira
+254,1,MN Najafi
+255,1,EAA Henrique
+256,1,JA Aguiar
+257,1,JB De Brito
+258,1,DR Paula
+259,1,LR da Silva
+260,1,MVC Henriques
