@@ -1,0 +1,1 @@
+Link para o download dos dados: https://www.kaggle.com/datasets/svanoo/myanimelist-dataset
