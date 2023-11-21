@@ -10,9 +10,15 @@ def assortativity_create(G):
     degree = [v for d,v in degrees]
     k_ij = []
     for i in range(len(nodes)):
-        degreekij = [degrees[j] for j in [n for n in G.neighbors(nodes[i])]]
-        Ter = sum(degreekij)/degrees[nodes[i]]
-        k_ij.append(Ter)
+        denominator = degrees[nodes[i]]
+        # for some reason exist 1 node exist loop with youself
+        if (denominator==0):
+            G.remove_node(nodes[i])
+            pass
+        else:
+            degreekij = [degrees[j] for j in [n for n in G.neighbors(nodes[i])]]
+            Ter = sum(degreekij)/denominator
+            k_ij.append(Ter)
     data = {"degree":degree,"k_ij":k_ij}
     df = pd.DataFrame(data=data)
     df.to_csv("../data/assortativity.csv",index=False,mode="w")
