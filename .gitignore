@@ -1,2 +1,6 @@
 Animes/data
 .virtual_documents
+
+python-dependency/data/*
+python-dependency/results/*
+
