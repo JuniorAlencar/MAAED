@@ -10,10 +10,10 @@ def are_multiples(number, factor):
 def random_attack(G,num_divisions):
     N_nodes = len([v for v in G.nodes()])
     
-    num_nodes_largest = []
-    num_nodes_remove = []
+    num_nodes_largest = [N_nodes]
+    num_nodes_remove = [0]
     
-    for i in range(N_nodes):
+    for i in range(1,N_nodes):
         nodes = [v for v in G.nodes()]
         node_random = random.choice(nodes)
         G.remove_node(node_random)
