@@ -7,8 +7,8 @@ import numpy as np
 def assortativity_create(G):
     degrees = G.degree()
     nodes = [d for d,v in degrees]
-    degree = [v for d,v in degrees]
     k_ij = []
+    degree = []
     for i in range(len(nodes)):
         denominator = degrees[nodes[i]]
         # for some reason exist 1 node exist loop with youself
@@ -18,6 +18,7 @@ def assortativity_create(G):
         else:
             degreekij = [degrees[j] for j in [n for n in G.neighbors(nodes[i])]]
             Ter = sum(degreekij)/denominator
+            degree.append(degrees[nodes[i]])
             k_ij.append(Ter)
     data = {"degree":degree,"k_ij":k_ij}
     df = pd.DataFrame(data=data)
